@@ -126,10 +126,9 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/rtv.png" group-title="Indonesia",RTV
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mentaritv.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3105,33 +3104,33 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PoliceTV.png" group-title="THAILAND",Police TV (1080p)
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-id="RamaChannel.th@SD" tvg-logo="https://i.imgur.com/pnbzE2V.png" group-title="THAILAND",Rama Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ramach.png" group-title="THAILAND",Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
-#EXTINF:-1 tvg-id="SBBTV.th@SD" tvg-logo="https://i.imgur.com/B1tyK1Z.png" group-title="THAILAND",SBB TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/sbbtv.png" group-title="THAILAND",SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTTV.th@SD" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="THAILAND",SBT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/sbttv.png" group-title="THAILAND",SBT TV
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
-#EXTINF:-1 tvg-id="STOUChannel.th@SD" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="THAILAND",STOU Channel (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/stouchannel.png" group-title="THAILAND",STOU Channel (720p)
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SuwannabhumiChannel.th@SD" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="THAILAND",Suwannabhumi Channel (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/suwannab.png" group-title="THAILAND",Suwannabhumi Channel (720p)
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th@SD" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="THAILAND",Thai Parliament TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/tpchannel.png" group-title="THAILAND",Thai Parliament TV (1080p)
 https://tv-live.tpchannel.org/live/tv.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th@SD" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="THAILAND",Thai PBS (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/thaipbs.png" group-title="THAILAND",Thai PBS (1080p) [Not 24/7]
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/topnews.png" group-title="THAILAND",Top News (720p)
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-id="TVMuslimThailand.th@SD" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="THAILAND",TV Muslim Thailand
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/10muslim.png" group-title="THAILAND",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:-1 tvg-id="WhiteChannel.th@SD" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="THAILAND",White Channel (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/whitechannel.png" group-title="THAILAND",White Channel (1080p)
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="ZabbChannel.th@SD" tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="THAILAND",Zabb Channel (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/zabbchannel.png" group-title="THAILAND",Zabb Channel (720p)
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/nnu.png" group-title="THAILAND", CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mcot.png" group-title="THAILAND", MCOT HD สำรอง
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT2HD.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/digital2hd.png" group-title="THAILAND", NBT2 HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ntb11.png" group-title="THAILAND", NBT 11 ภาคเหนือ
 https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
@@ -3147,69 +3146,67 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/topnews.png" group-title="THAILAND", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/ipKWKb8hbcdyqJ6chseoOVf-bf06n05IHVoYFn8pdNFF8mNnDO7IgfPM4U8k6l3rm7ii7XONDahaYF_4iERQfmA", Chiangrai Channel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/topnews.png" group-title="THAILAND", Chiangrai Channel 
 http://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 tvg-id="CH8.th" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Channel82026.svg/revision/latest/scale-to-width-down/284?cb=20260323123124", Ch 8 Thailand 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/delapan.png" group-title="THAILAND", Ch 8 Thailand 
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WarnerTV_FILM_HD_Logo_2021.svg/500px-WarnerTV_FILM_HD_Logo_2021.svg.png", FuckIDMovie
 http://49.0.64.96:8007/PING
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://i.ytimg.com/vi/6S_WumfuJxQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgICh_MA8=&rs=AOn4CLBdd01kDzktgwQJIwJ84al-_2GSjg", Universal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/universalhd.png" group-title="THAILAND", Universal
 http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/YAYLA_Logo.svg/1280px-YAYLA_Logo.svg.png", IZAAMOVIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/sharjah.png" group-title="THAILAND", IZAAMOVIE
 http://49.0.64.96:8007/IZAA
 #EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ch.3_Logo_(1970).png", TV Series 
 http://49.0.64.96:8007/SERIES
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://yt3.googleusercontent.com/RjRUr1yOUk7NlxQUfkoAJNET0yHFZLuUulOxKPSKQ2PWmX8anx73MI2DT3oPedKFZOt3hwEW=s900-c-k-c0x00ffffff-no-rj", Amazing Show
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/amazingshow.png" group-title="THAILAND", Amazing Show
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnIuqxRZpezatwE5zjl33wA6Fzvr4m8Qoy7e6L9GBV9R_i66l", Cartoon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/cartoontv.png" group-title="THAILAND", Cartoon
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnfuX9L29k7Yrsw7yuAo6yTYbijntWAIT7L1UFXrlHhBFfQicmzaTFuo&s=10", มวลชนทีวี
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/burung.png" group-title="THAILAND", มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mO7ZwE4PS1ULAoMh7BI-o9MFglgot4d61bWYiC-hLQ1lk=s900-c-k-c0x00ffffff-no-rj", Siam News TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/siamnews.png" group-title="THAILAND", Siam News TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNA_MCOT_2014_(3).png/revision/latest?cb=20161005064721", Thai News 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/thainews.png" group-title="THAILAND", Thai News 
 https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png", World Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/scince.png" group-title="THAILAND", World Science
 http://49.0.64.96:8007/WSCI
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://png.pngtree.com/png-clipart/20250130/original/pngtree-greeting-of-world-animal-day-4-october-png-image_6834101.png", World Animal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/WorldAnimal.png" group-title="THAILAND", World Animal
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 tvg-id="Moo.th" group-title="THAILAND" tvg-logo="https://cdn.prod.website-files.com/60f6d8f1589a31b90be447f5/6257d6329511103888d8c5c3_Logo-oficial-RB.png", Hi Sport
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://hotwave.net/wp-content/uploads/2024/10/NEW-LOGO-e1729002788723.png", Hot Wave 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hotwave.png" group-title="THAILAND-", Hot Wave 
 https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://images.squarespace-cdn.com/content/v1/6111d32a681aa003444ed7e1/04e8f3d0-a185-4cee-a606-6749f3729f42/GW+Final+Logos_Green+Greenwave.png", Green Wave 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/greenwave.png" group-title="THAILAND", Green Wave 
 https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/94_EFM_logo_2009.png/revision/latest?cb=20260617070402", EFM 94
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/efm94.png" group-title="THAILAND", EFM 94
 https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w696502376.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1W0wmMBfvQCr9IFnadP_yYf2MuALJXP54W5is2O2VC20wRTB", ลูกทุ่งเน็ตเวิร์ค
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ลูกทุ่งเน็ตเวิร์ค.png" group-title="THAILAND", ลูกทุ่งเน็ตเวิร์ค
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/40IJXQ121WQDg5VxA3nkceyXJtEfDFIxdsWSABuISpfqz4mkjNK66KlrcTX7s9nc65ymnO7W5ScVKnWy3lkKHQ", ลูกทุ่งทีวี
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ลูกทุ่งทีวี.png" group-title="THAILAND", ลูกทุ่งทีวี
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png", ไทยไชโย
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ไทยไชโย.png" group-title="THAILAND", ไทยไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424", บ้านบ้านทีวี
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/banban.png" group-title="THAILAND", บ้านบ้านทีวี
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyF6czCrrSgRAfex2J5CcFU56Uo9ZmCJE-zgDdSGb57gqE0js4NWOVJA&s=10", Nat tv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/natv.png" group-title="THAILAND", Nat tv 
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo-tvcable-aplicaciones1.png", Cable 37 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/tvcable.png" group-title="THAILAND", Cable 37 
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://i.imgur.com/FvEp1S2.png", 13 Siam Thai 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/13siam.png" group-title="THAILAND", 13 Siam Thai 
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://img.pikbest.com/png-images/20240505/spirited-mothers-day-holiday-wishes-222024-png-images-png_10550635.png!f305cw", สุวรรณภูมิ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/suwannab.png" group-title="THAILAND",Suwannabhumi Channel 
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV-Glad_logo.png", Cool Channel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/CoolChannel .png" group-title="THAILAND", Cool Channel 
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TDTVHN2022.png/revision/latest/scale-to-width-down/280?cb=20260705020630&path-prefix=es", TTD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TTD1.png" group-title="THAILAND", TTD1
 https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
-#EXTINF:-1 tvg-id="WhiteChannel.th" group-title="THAILAND" tvg-logo="https://i0.wp.com/whitechannel.tv/wp-content/uploads/2021/06/Logo-White-2.png?ssl=1", White Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/whitechannel.png" group-title="THAILAND", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0H-I_-nzoubIm59m7BbJJCEy9ovxw2rdNQZtKZ0z8IUm5vB0HQbarwDU&s=10", Yateem TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/YateemTV.png" group-title="THAILAND", Yateem TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMuslimThailand.th" group-title="THAILAND" tvg-logo="https://images.squarespace-cdn.com/content/v1/609019f9b5dc1613ef036e80/1620064776027-X8X4JJIZBPTWS5BQO65F/Jose+Logo+White-01.png?format=1500w", ทีวีมุสลิม
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ทีวีมุสลิม.png" group-title="THAILAND", ทีวีมุสลิม
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/L_tmkKg8Ur7Hb0YWQJa8AKoOohdmkcNhSQIjuUaSE3MI1hh6jjaR8n1Zk7ymFZLGllGwCxJxLikMr-sBPB41vQ", ทีวีรัฐสภา
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ทีวีรัฐสภา.png" group-title="THAILAND", ทีวีรัฐสภา
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
-#EXTINF:-1 tvg-id="Policetv.th" group-title="THAILAND" tvg-logo="https://nantouristpolice.com/wp-content/uploads/2025/10/cropped-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-1.png", Police TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/policetv.png" group-title="THAILAND", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
