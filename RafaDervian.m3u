@@ -97,7 +97,7 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/rcti.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -108,7 +108,7 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mnctv.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -133,7 +133,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mentaritv.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-name="Moji tv" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/moji.png" group-title="Indonesia",MOJI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -183,7 +183,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/btv.png" group-title="Indonesia", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=6165&type=dash
 
 #EXTINF:-1 tvg-id="Indosiana" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/indosiana.png" group-title="Indonesia",Indosiana TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -198,7 +198,7 @@ https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=19046&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -254,13 +254,13 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-origin=https://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=5415&type=dash
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/jtv.png" group-title="Indonesia",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-origin=https://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=9713&type=dash
 
 #EXTINF:-1 tvg-id="Rodja" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/rodja.png" group-title="Indonesia", RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -1606,7 +1606,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockaction.png" group-title="Premium Movies",Rock Action
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockaction.png" group-title="HITS MOVIES",Rock Action
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/action.m3u8
 
@@ -1614,28 +1614,28 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/action.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
-#EXTINF:-1 group-title="Premium Movies" tvg-id="ONE" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/one.png",ONE
+#EXTINF:-1 group-title="HITS MOVIES" tvg-id="ONE" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/one.png",ONE
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/one.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsnow.png" group-title="Premium Movies",Hits Now
+#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsnow.png" group-title="HITS MOVIES",Hits Now
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTINF:-1 tvg-id="HITS" tvg-url="mmm"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hits.png" group-title="Premium Movies",Hits
+#EXTINF:-1 tvg-id="HITS" tvg-url="mmm"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hits.png" group-title="HITS MOVIES",Hits
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
-#EXTINF:-1 tvg-id="HITS Movies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsmovies.png" group-title="Premium Movies",Hits Movies
+#EXTINF:-1 tvg-id="HITS Movies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hitsmovies.png" group-title="HITS MOVIES",Hits Movies
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hits.m3u8
 
@@ -1643,7 +1643,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hits.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTINF:-1 tvg-id="Studio Universal" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/stuv.png" group-title="Premium Movies", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="Studio Universal" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/stuv.png" group-title="HITS MOVIES", STUDIO UNIVERSAL
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/studiouniversal.m3u8
 
@@ -1651,7 +1651,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/studiouniversa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
-#EXTINF:-1 tvg-id="AXN" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/axn.png" group-title="Premium Movies",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/axn.png" group-title="HITS MOVIES",AXN
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/axn.m3u8
 
@@ -1659,7 +1659,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/axn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxy.png",Galaxy
+#EXTINF:-1 group-title="HITS MOVIES" tvg-id="Galaxy" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxy.png",Galaxy
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/galaxy.m3u8
 
@@ -1667,21 +1667,21 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/galaxy.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxypremium.png",Galaxy Premium
+#EXTINF:-1 group-title="HITS MOVIES" tvg-id="Galaxy Premium" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/galaxypremium.png",Galaxy Premium
 #https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTINF:-1 group-title="Premium Movies" tvg-id="KIX" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kix.png",KIX
+#EXTINF:-1 group-title="HITS MOVIES" tvg-id="KIX" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kix.png",KIX
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTINF:-1 tvg-id="Thrill" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/thril.png" group-title="Premium Movies",Thriil
+#EXTINF:-1 tvg-id="Thrill" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/thril.png" group-title="HITS MOVIES",Thriil
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/thrill.m3u8
 
@@ -1689,7 +1689,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/thrill.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#EXTINF:-1 tvg-id="Originals" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/original.png" group-title="Premium Movies",Originals
+#EXTINF:-1 tvg-id="Originals" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/original.png" group-title="HITS MOVIES",Originals
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/original.m3u8
 
@@ -1697,14 +1697,14 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/original.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTINF:-1 tvg-id="Buddy Star" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/buddyster.png" group-title="Premium Movies",Buddy Star
+#EXTINF:-1 tvg-id="Buddy Star" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/buddyster.png" group-title="HITS MOVIES",Buddy Star
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTINF:-1 tvg-id="Cineedge" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cineedge.png" group-title="Premium Movies",Cineedge
+#EXTINF:-1 tvg-id="Cineedge" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cineedge.png" group-title="HITS MOVIES",Cineedge
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cineedge.m3u8
 
@@ -1712,7 +1712,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cineedge.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTINF:-1 tvg-id="Superrix" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/superix.png" group-title="Premium Movies",SUPERRIX
+#EXTINF:-1 tvg-id="Superrix" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/superix.png" group-title="HITS MOVIES",SUPERRIX
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/supperix.m3u8
 
@@ -1720,7 +1720,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/supperix.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTINF:-1 tvg-id="Uniques" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/uniquest.png" group-title="Premium Movies",Uniquest
+#EXTINF:-1 tvg-id="Uniques" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/uniquest.png" group-title="HITS MOVIES",Uniquest
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/uniquest.m3u8
 
@@ -1728,47 +1728,47 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/uniquest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=59de57168ce94a96bed1606f10c65f67:459fdec6262975e03adc82d62b749f44
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifetime.png" group-title="Premium Movies",Lifetime (Alternative)
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifetime.png" group-title="HITS MOVIES",Lifetime (Alternative)
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/lifetime.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="Premium Movies",Movies Now HD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="HITS MOVIES",Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="Premium Movies",MN+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="HITS MOVIES",MN+
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5b920ae354ac4729e07880ab/1565810632183/e0612c9989dba69138bb8026d23dbec1.jpg?tx=w_350" group-title="Premium Movies",MNX HD
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5b920ae354ac4729e07880ab/1565810632183/e0612c9989dba69138bb8026d23dbec1.jpg?tx=w_350" group-title="HITS MOVIES",MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png",Romedy Now
+#EXTINF:-1 group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
 #https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
 #https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbohits.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
 #https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbofamily.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
 #https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbosig.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
 #https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cinemax.m3u8
 
@@ -1776,105 +1776,105 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cinemax.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 1
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 2
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-comedy.png",HBO Comedy
+#EXTINF:-1 group-title="HITS MOVIES" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-comedy.png",HBO Comedy
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
-#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Premium Movies",HBO Latino
+#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="HITS MOVIES",HBO Latino
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-#EXTINF:-1 tvg-id="HBOZone" group-title="Premium Movies" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-zone.png",HBO Zone
+#EXTINF:-1 tvg-id="HBOZone" group-title="HITS MOVIES" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-zone.png",HBO Zone
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",StarMAX East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",StarMAX East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",Action MAX HD East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",Action MAX HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",More MAX HD East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",More MAX HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="Premium Movies",5Star MAX East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",5Star MAX East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD West
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD West
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD East
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9d47d7a5b1875534d1acb2d154d3a30:5ffb5cb49e64eba2309d18b781a8825d
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax Latino
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax Latino
 https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bkuvpo3icw/out/v1/04fe99d2ed564ee18f3d504528ef131c/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amazonmovies.png" group-title="Premium Movies",Amazon Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amazonmovies.png" group-title="HITS MOVIES",Amazon Movies
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="Premium Movies" tvg-id="DE4000002I3" tvg-name="Moviesphere", Moviesphere by Lionsgate
+#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="HITS MOVIES" tvg-id="DE4000002I3" tvg-name="Moviesphere", Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="Premium Movies", Universal Movies
+#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="HITS MOVIES", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="Premium Movies",US | AMC Fast
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="HITS MOVIES",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",La | Runtime Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Peliculas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Comedia
 https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Crimen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Crimen
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",La | Runtime Romance
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",La | Runtime Romance
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Familia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",LA | Runtime Terror
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Terror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
 
@@ -2431,29 +2431,29 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #<========== China Tv ============================================================================================>
 
 
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Zhejiang.png",Zhejiang TV International
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Zhejiang.png",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Xizang.png",Xizang TV Chinese
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Xizang.png",Xizang TV Chinese
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Siping.png",Siping TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Siping.png",Siping TV
 https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/chifeng.png",Chifeng Comprehensive News Chanel
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/chifeng.png",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/chuxiong.png",Chuxiong News Channel
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/chuxiong.png",Chuxiong News Channel
 http://hwapi.yntv.net/ew265l/848y54.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dongguan.png",Dongguan Comprehensive News Channel
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/dongguan.png",Dongguan Comprehensive News Channel
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/guangzhou.png",Guangzhou TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/guangzhou.png",Guangzhou TV
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hebei.png",Hebei TV (2160p)
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hebei.png",Hebei TV (2160p)
 https://event.pull.hebtv.com/live/live101.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hunan2.png",Hunan TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hunan.png",Hunan TV
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jiangsu2.png",JiangSu News
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/jiangsu.png",JiangSu News
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV-opera.png",CCTV Opera
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/cctvopera.png",CCTV Opera
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cctv-opera.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dragontv3.png",Dragon TV
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/drgentv.png",Dragon TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=dragontv
@@ -2500,22 +2500,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV17.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="China" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png",CHC家庭影院
-https://t.freetv.fun/live/chcjia-ting-ying-yuan-2.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC动作电影.png",CHC动作电影
-https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png",CHC影迷电影
-https://t.freetv.fun/live/chcying-mi-dian-ying-6.m3u8
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",梨园频道
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=2f164142b3d9a4cf7659afed9037038f&wsTime=1777773544
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",文物宝库
-https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f0e0d0f59cb75e3a0b3fdba20d0f82cc&wsTime=1777773544
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",武术频道
-https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=6fc0f7826e67a0e7a38b4ed40d99093f&wsTime=1777773544
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",睛彩中原
-https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=1a9ab210c32665a64b3bc1723530a3c7&wsTime=1777773544
 #EXTINF:-1 group-title="China" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="China" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png",陕西卫视
@@ -2524,7 +2510,6 @@ http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://www.xn--rgv465a.top/tvlogo/厦门卫视.png",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="China",文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="China",央视台球
@@ -3242,63 +3227,63 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #==========MYANMAR===================#
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/chanal7.png" group-title"MYANMAR", Channel 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/chanal7.png" group-title="MYANMAR", Channel 7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mahartv.png" group-title"MYANMAR",Mahar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mahartv.png" group-title="MYANMAR",Mahar TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/fortonemyr.png" group-title"MYANMAR", FORTUNE TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/fortonemyr.png" group-title="MYANMAR", FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title"MYANMAR", 膼峄搉g Nai 1 gtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title="MYANMAR", 膼峄搉g Nai 1 gtv
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title"MYANMAR", 膼峄搉g Nai 2 gtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title="MYANMAR", 膼峄搉g Nai 2 gtv
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myratv1.png" group-title"MYANMAR", ATV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myratv1.png" group-title="MYANMAR", ATV1
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title"MYANMAR", Hmong Star TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title="MYANMAR", Hmong Star TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title"MYANMAR",Houng Fa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title="MYANMAR",Houng Fa
 https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title"MYANMAR", Oh Muang Lao TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title="MYANMAR", Oh Muang Lao TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title"MYANMAR", Lao SV TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", Lao SV TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LSTV.png" group-title"MYANMAR", LS TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LSTV.png" group-title="MYANMAR", LS TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/VatiLao.png" group-title"MYANMAR", Vati Lao(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/VatiLao.png" group-title="MYANMAR", Vati Lao(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/briantv.png" group-title"MYANMAR", Brian TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/briantv.png" group-title="MYANMAR", Brian TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title"MYANMAR", LAO Net TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", LAO Net TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title"MYANMAR", Ning TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title="MYANMAR", Ning TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/HmongTV.png" group-title"MYANMAR", Hmong TV Network(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongtv.png" group-title="MYANMAR", Hmong TV Network(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title"MYANMAR",Lao-Thai US TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR",Lao-Thai US TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title"MYANMAR", Ning TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title="MYANMAR", Ning TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/AIRTV.png" group-title"MYANMAR",Air TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/AIRTV.png" group-title="MYANMAR",Air TV
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title"MYANMAR",Lao SV TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR",Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LaneXiang.png" group-title"MYANMAR",Lane Xang(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LaneXiang.png" group-title="MYANMAR",Lane Xang(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TeaTV.png" group-title"MYANMAR", Tea TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/teatv.png" group-title="MYANMAR", Tea TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ESCTV.png" group-title"MYANMAR", ISTV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ESCTV.png" group-title="MYANMAR", ISTV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title"MYANMAR", Oh Muang Lao TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title="MYANMAR", Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title"MYANMAR", Lao-Thai TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", Lao-Thai TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Supreme.png" group-title"MYANMAR",Supreme Master TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Supreme.png" group-title="MYANMAR",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/HmongTV.png" group-title"MYANMAR", Hmong TV Network (720p)(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongtv.png" group-title="MYANMAR", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/teatv.png" group-title"MYANMAR", Tea TV 2(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/teatv.png" group-title="MYANMAR", Tea TV 2(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/HBTV.png" group-title"MYANMAR", HBTV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/HBTV.png" group-title="MYANMAR", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
@@ -4879,9 +4864,9 @@ http://stream.mcquack.net/306/index.m3u8
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8152.png" tvg-rec="0",Stingray Classica HD DE
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-id="2560" tvg-logo="http://epg.one/img/2560.png" tvg-rec="3",1TV GE
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/m1music.png" tvg-rec="3",M1 HD UA
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3287.png" tvg-rec="3",2TV LT
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/m2music.png" tvg-rec="3",M2 HD UA
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2022.png" tvg-rec="7",Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
@@ -4925,7 +4910,9 @@ http://stream.mcquack.net/291/index.m3u8
 http://stream.mcquack.net/84/index.m3u8
 #EXTINF:0 group-title="TEST-1" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="3",Русский бестселлер orig
 http://stream.mcquack.net/63/index.m3u8
-#EXTINF:-1 group-title="TEST-1". tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV HD
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3551.png" tvg-rec="0",Gags Network
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 group-title="TEST-1". tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV HD
 http://stream.mcquack.net/287/index.m3u8
