@@ -1914,10 +1914,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="ZooMoo" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zoomoo.png" group-title="Kids",ZooMoo
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zoomoo.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug" tvg-url="mmm" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/moonbug.png" group-title="Kids",Moonbug
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/moonbug.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorks" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/drwk.png" group-title="Kids",Dreamworks HD
+#EXTINF:-1 tvg-id="DreamWorks" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Dreamworks.png" group-title="Kids",Dreamworks HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dreamwork.m3u8
 
 #EXTINF:-1 tvg-id="My Kidz" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/babyshark.png" group-title="Kids",Baby Shark HD
