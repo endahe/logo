@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religious",Al Wafa Tarim (720p)
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6aa1f82906304434d9688a53/master.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
-
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
-https://gist.githubusercontent.com/iptvonlinetv/01ad8017e31f5131cd5fab2111966027/raw/3293793ca90eaa66467b7d8d2f6d8c47ed444ed8/udp50.508.500:8000.m3u8
-https://gist.githubusercontent.com/edgechannels1-ai/60104c033fc6f258800cb589ab3265de/raw/0f4e1404ae6f3d3cf41b6ca5bd6ec8e6f67d17b6/allegroudp.m3u8
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
-
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsp.png",Bein Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2533,108 +2509,103 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 #============INDIA TV=================#
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeechinema.png" group-title="INDIA TV",Zee Chinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zeechinema.png" group-title="INDIA TV",Zee Chinema
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeecinema.m3u8
-
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",zee bollywood
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zeebolly.png",zee bollywood
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
-
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebangla.png",Zee Bangla
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zeebangla.png",Zee Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
-
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png" group-title="INDIA TV",&TV HD
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/dantv.png" group-title="INDIA TV",&TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dantv.m3u8
-
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/danpic.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/eurosport.png" group-title="INDIA TV",Euro Sports
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/eurosport.png" group-title="INDIA TV",Euro Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/willsport.png" group-title="INDIA TV",Willow Cricket 
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/willsport.png" group-title="INDIA TV",Willow Cricket 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/willsports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ddsports.png" group-title="INDIA TV",DD Sports
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ddsports.png" group-title="INDIA TV",DD Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ddsports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
 #https://cdn-6.pishow.tv/live/13/master.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 1
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports2.png" group-title="INDIA TV",Sony Sports 2
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonysports2.png" group-title="INDIA TV",Sony Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport2.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 1
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports2.png" group-title="INDIA TV",Star Sports 2
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/starsports2.png" group-title="INDIA TV",Star Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsport2.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony TV HD
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonykids.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/bigtv.png",Big TV HD
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/asianet.png",Asianet Movies HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/asianet.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/amirta.png",Amrita TV HD
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/24news.png",24 News HD
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/anandtv.png",Anand TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/anandtv.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Deshi.png",Deshi TV (720p)
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Deshi.png",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/960px-Logo_of_Ananda_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",Ananda TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Ananda.png" group-title="INDIA TV",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Boishakhi.png" group-title="INDIA TV",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.jdmagicbox.com/v2/comp/hyderabad/i2/040pxx40.xx40.230719123055.r9i2/catalogue/rtv-network-jubilee-hills-hyderabad-media-services-d3v8t9olws-250.jpg",RTV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTVIN.png" group-title="INDIA TV",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nexus TV (576p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Nexus.png" group-title="INDIA TV",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushey TV (480p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Ekushey.png" group-title="INDIA TV",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Star_Jalsha_logo_%282006%29.png/revision/latest?cb=20210610093740",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/StarJalsha.png" group-title="INDIA TV",Star Jalsha HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Boishakhi.png" group-title="INDIA TV",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/BTV_Chattogram_Logo_Alternative.svg/revision/latest/scale-to-width-down/250?cb=20240910125743",BTV Chattogram
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Chattogram.png" group-title="INDIA TV",BTV Chattogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Bijoy_TV_2011_Logo.svg/revision/latest/scale-to-width-down/300?cb=20260427150311",Bijoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Bijoy.png" group-title="INDIA TV",Bijoy TV
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushe ETV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Ekushe.png" group-title="INDIA TV",Ekushe ETV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://profilepicframe.com/wp-content/uploads/2022/07/1657272549-IMG20220706172330-758x364.jpg",Ekhon TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/bigtv.png" group-title="INDIA TV",Ekhon TV
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604",N TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/N-TV.png" group-title="INDIA TV",N TV HD
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Global_TV_%28TVG%29.svg/3840px-Global_TV_%28TVG%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Global TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Global.png" group-title="INDIA TV",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pardesi1.png",Pardesi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Pardesi.png" group-title="INDIA TV",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045",Bhojpuri Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Bhojpuri.png" group-title="INDIA TV",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/SATV_2D_logo_with_slogan.png/revision/latest?cb=20260528063118",SA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/SA-TV.png" group-title="INDIA TV",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Shemaroob.png" group-title="INDIA TV",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Action Bollywood Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Actionb.png" group-title="INDIA TV",Action Bollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/df/Mohona_TV_logo_with_slogan.png/revision/latest/scale-to-width-down/200?cb=20260528045720",Mohona TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Mohona.png" group-title="INDIA TV",Mohona TV
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https",Mohona
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Odia.png" group-title="INDIA TV",Odia TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeNews.png" group-title="INDIA TV",Zee News 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA TV",DD News 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/DDNews.png" group-title="INDIA TV",DD News 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310" group-title="INDIA TV",News Nation
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/NewsNation.png" group-title="INDIA TV",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg/revision/latest?cb=20240319131335" group-title="INDIA TV",Tv 9 Bharat 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/9Bharat.png" group-title="INDIA TV",Tv 9 Bharat 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",Zee 24 Ghanta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Zee24.png" group-title="INDIA TV",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch782_425_305"group-title="INDIA TV",Zee TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeTV.png" group-title="INDIA TV",Zee TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeetv.m3u8
 
 #EXTINF:0 group-title="INDIA TV" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sports 1 IN
