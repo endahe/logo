@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsp.png",Live
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+https://live.mycamtv.com/ebony.m3u8
+https://live.mycamtv.com/skinny.m3u8
+https://live.mycamtv.com/white.m3u8
+https://live.mycamtv.com/medium.m3u8
+https://live.mycamtv.com/squirt.m3u8
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsp.png",Bein Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2235,15 +2242,25 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=dragontv
-#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hunan.png",Hunan TV
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/anhui.png",Anhui
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/anhui/index.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hunan.png",Hunan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/hunan/index.m3u8
-https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
-#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/jiangsu.png",JiangSu News
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/jiangsu.png",JiangSu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/jiangsu/index.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/formosa2.png",Formosa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/formosa/index.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hunan.png",Hunan TV
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/jiangsu.png",JiangSu News
 https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 #EXTINF:-1 group-title="China TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Zhejiang.png",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
@@ -2545,7 +2562,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport2.m3u
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/starsports2.png" group-title="INDIA TV",Star Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsport2.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony TV HD
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony YAY HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonykids.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/bigtv.png",Big TV HD
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
@@ -2561,7 +2578,6 @@ https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/anandtv.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Deshi.png",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Ananda.png" group-title="INDIA TV",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Boishakhi.png" group-title="INDIA TV",Boishakhi TV
@@ -2751,10 +2767,10 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Goldmines.png" group-title="INDIA TV",Goldmines Bollywood (576p)
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/danTVHD.png" group-title="INDIA TV",&TV HD (1080p)
-http://103.229.254.25:7001/play/a034/index.m3u8
+https://aalayamagimai.in/tv/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/DDIndia.png" group-title="INDIA TV",DD India (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonysport.png" group-title="INDIA TV",Sony Sports Ten 2 HD (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zeeindia.png" group-title="INDIA TV",Zee India
 http://103.229.254.25:7001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/SonyKAL.png" group-title="INDIA TV",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
@@ -2953,7 +2969,7 @@ http://49.0.64.96:8007/PING
 http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/sharjah.png" group-title="THAILAND", IZAAMOVIE
 http://49.0.64.96:8007/IZAA
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ch.3_Logo_(1970).png", TV Series 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TVSeries.png" group-title="THAILAND", TV Series 
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/amazingshow.png" group-title="THAILAND", Amazing Show
 http://49.0.64.96:8007/AMAZING
