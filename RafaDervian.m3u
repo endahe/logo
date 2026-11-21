@@ -2542,10 +2542,14 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeecinema.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zeebangla.png",Zee Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeAction2.png" group-title="INDIA TV",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeTV.png" group-title="INDIA TV",Zee TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeNews.png" group-title="INDIA TV",Zee News 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Zee24.png" group-title="INDIA TV",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/dantv.png" group-title="INDIA TV",&TV HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dantv.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
@@ -2631,8 +2635,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/9Bharat.png" group-title="INDIA TV",Tv 9 Bharat 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Zee24.png" group-title="INDIA TV",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 #EXTINF:0 group-title="INDIA TV" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sports 1 IN
 http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/2508/index.m3u8
@@ -2739,8 +2741,6 @@ http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32300/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeAnmol.png" group-title="INDIA TV",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ZeeAction2.png" group-title="INDIA TV",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ShemarooJosh.png" group-title="INDIA TV",Shemaroo Josh (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ShemarooMarathi.png" group-title="INDIA TV",Shemaroo Marathi Bana (720p)
