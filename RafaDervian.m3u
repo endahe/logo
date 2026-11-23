@@ -1978,36 +1978,10 @@ https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/9XM.png" group-title="Music",9XM
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVRusia.png" group-title="Music",MTV Rusia
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mtvru.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/YoMTV.png" group-title="Music",Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/NEWKPOP.png" group-title="Music",NEW K-POP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_165
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VibeeTV.png" group-title="Music",Vibee TV (720p)
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Aghani.png" group-title="Music", Aghani TV (1080p)
-https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic.png" group-title="Music",Totalmusic (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic80s.png" group-title="Music",Totalmusic 80s (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic2000s.png" group-title="Music",Totalmusic 2000s (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Concerts.png" group-title="Music",Totalmusic Concerts (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Kronehit.png" group-title="Music",Kronehit (1080p)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLive.png" group-title="Music",LiveXLive (1080p)
-https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLivem.png" group-title="Music",LiveXLive (1080p) [Not 24/7]
-https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVSpankin.png" group-title="Music",MTV Spankin' New (1080p)
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Number1Ask.png" group-title="Music",Number 1 Ask (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RadioJavan.png" group-title="Music",Radio Javan TV (1080p)
-https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RockTV.png" group-title="Music",Rock TV (1080p) [Not 24/7]
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBest.png" group-title="Music",RTL 102.5 Best (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b1792000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBroSis.png" group-title="Music",RTL 102.5 Bro&Sis (576)
@@ -2022,6 +1996,32 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/c
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b1792000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLTV.png" group-title="Music",RTL 102.5 TV (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b1792000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic.png" group-title="Music",Totalmusic (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic80s.png" group-title="Music",Totalmusic 80s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic2000s.png" group-title="Music",Totalmusic 2000s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Concerts.png" group-title="Music",Totalmusic Concerts (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VibeeTV.png" group-title="Music",Vibee TV (720p)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Aghani.png" group-title="Music", Aghani TV (1080p)
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Kronehit.png" group-title="Music",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLive.png" group-title="Music",LiveXLive (1080p)
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLivem.png" group-title="Music",LiveXLive (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVRusia.png" group-title="Music",MTV Spankin' New (1080p)
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Number1Ask.png" group-title="Music",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RadioJavan.png" group-title="Music",Radio Javan TV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RockTV.png" group-title="Music",Rock TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/SpektraTV.png" group-title="Music",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Vantage.png" group-title="Music",Vantage Music UK (1080p)
