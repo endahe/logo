@@ -1974,6 +1974,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/m2o.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TraceUK.png" group-title="Music",Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TraceUK.png" group-title="Music",Trace Urban (Australia)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/9XM.png" group-title="Music",9XM
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVRusia.png" group-title="Music",MTV Rusia
@@ -1982,8 +1984,6 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mtvru.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_165
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VibeeTV.png" group-title="Music",Vibee TV (720p)
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TraceUK.png" group-title="Music",Trace Urban (Australia)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Aghani.png" group-title="Music", Aghani TV (1080p)
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic.png" group-title="Music",Totalmusic (720p)
@@ -2002,31 +2002,31 @@ https://livestream.liveone.com/lc1/p1.m3u8
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVSpankin.png" group-title="Music",MTV Spankin' New (1080p)
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",Number 1 Ask (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Number1Ask.png" group-title="Music",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",Radio Javan TV (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RadioJavan.png" group-title="Music",Radio Javan TV (1080p)
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",Rock TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RockTV.png" group-title="Music",Rock TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Best (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBest.png" group-title="Music",RTL 102.5 Best (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Bro&Sis (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBroSis.png" group-title="Music",RTL 102.5 Bro&Sis (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Caliente (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLCaliente.png" group-title="Music",RTL 102.5 Caliente (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Disco (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLDisco.png" group-title="Music",RTL 102.5 Disco (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Napulè (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLNapulè.png" group-title="Music",RTL 102.5 Napulè (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 Traffic (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLTraffic.png" group-title="Music",RTL 102.5 Traffic (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",RTL 102.5 TV (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLTV.png" group-title="Music",RTL 102.5 TV (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",SpektraTV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTL BroSis.png" group-title="Music",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",Vantage Music UK (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Vantage.png" group-title="Music",Vantage Music UK (1080p)
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/musictv.png" group-title="Music",XITE Hits UK (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/XITEHits.png" group-title="Music",XITE Hits UK (1080p)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136d8b84a0ad764b72f4844ee506f1b63dcbb58b07f04908217d87d2a82ffdf333c795a58cd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79244c556420d65d0af5e1e3bb7894b1f93dc9574bb0d26e68b02/113/1280x720_3329040/index.m3u8
 
 
